@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//baike_spider/html_downloader.py=utf-8
+encoding//baike_spider/html_outputer.py=utf-8
+encoding//baike_spider/html_parser.py=utf-8
+encoding//baike_spider/spider_main.py=utf-8
+encoding//baike_spider/url_manager.py=utf-8
+encoding//test/test_beatifulsoup.py=utf-8
+encoding//test/test_urllib2.py=utf-8
