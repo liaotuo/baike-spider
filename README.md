@@ -11,4 +11,11 @@
 ![架构](https://github.com/liaotuo/baike_spider/blob/master/img/%E7%88%AC%E8%99%AB%E6%9E%B6%E6%9E%84.jpg?raw=true)
 
 # 运行流程
-![流程(https://github.com/liaotuo/baike_spider/blob/3eb610fca3ebf16fbcf0927b5fe63e4cf82cf704/img/%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.jpg?raw=true)
+![流程](https://github.com/liaotuo/baike_spider/blob/3eb610fca3ebf16fbcf0927b5fe63e4cf82cf704/img/%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.jpg?raw=true)
+
+# 参考资料
+- 慕课网 Python开发简单爬虫
+- 《Python爬虫开发与项目实战》
+
+# Contact
+- E-mail: liaotuo2016@163.com
